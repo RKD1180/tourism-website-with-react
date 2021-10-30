@@ -1,0 +1,15 @@
+
+.header-text{
+    padding-top: 10rem;
+    font-size: 70px;
+}
+.trip-head{
+    font-size: 50px;
+    font-weight: 700;
+}
+.plan li{
+    list-style-type:none;
+}
+.booknow-btn{
+    margin-right: 16rem;
+}
